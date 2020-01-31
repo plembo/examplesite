@@ -25,7 +25,6 @@ _testmain.go
 /public
 .DS_Store
 
-static
 NOTES.md
 content/post
 layouts/partials
