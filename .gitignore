@@ -25,12 +25,8 @@ _testmain.go
 /public
 .DS_Store
 
-config.toml
 static
-themes/casper-two
 NOTES.md
 content/post
-.gitmodules
 layouts/partials
 resources
-

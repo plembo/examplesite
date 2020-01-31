@@ -1,0 +1,61 @@
+baseurl         = "https://example.casalembo.org"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Example Site"
+  subtitle    = "My Great Site"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Phil's great example site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "philinnc"
+  # fbName = ""
+  githubName = "plembo"
+  linkedinName = "phil-lembo-nc"
+
+  logo = ""
+  orgName = "Phil Lembo"
+  orgWebsite = "https://www.casalembo.com"
+  orgDescription = "A private home"
+
+  author = "PL"
+  authorAvatar = "img/profile-picture.jpg"
+  authorLocation = "Raleigh, NC"
+  authorWebsite = "https://plembo.github.io"
+  authorDescription = "Enterprise Architect"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/project/"
+  weight = 100
+
+[[menu.main]]
+  name = "My Life"
+  url = "/categories/life/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
