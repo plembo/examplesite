@@ -8,7 +8,7 @@ https://www.youtube.com/playlist?list=PL-Kz5P-mYdMgAJDmRJquyMHfdaIOD-3oj
 https://youtu.be/c7vpcqA6SEQ
 
 ```bash
-$ hugo create new site mysite
+$ hugo new site mysite
 
 $ cd mysite
 ```
