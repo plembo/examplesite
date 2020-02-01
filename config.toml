@@ -27,7 +27,7 @@ paginate        = 6
   orgDescription = "A private home"
 
   author = "Phil Lembo"
-  authorAvatar = "uploads/profile_picture.jpg"
+  authorAvatar = "uploads/myavatar.jpg"
   authorLocation = "Raleigh, NC"
   authorWebsite = "https://plembo.github.io"
   authorDescription = "Enterprise Architect"
