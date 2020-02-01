@@ -1,4 +1,4 @@
-baseurl         = "https://example.casalembo.org"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
