@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Example Site"
   subtitle    = "My Great Site"
 
-  cover       = "img/blog-cover.jpg"
+  cover       = "uploads/header.jpg"
   description = "Phil's great example site."
   metaDescription = ""
   googleAnalytics = ""
@@ -26,8 +26,8 @@ paginate        = 6
   orgWebsite = "https://www.casalembo.com"
   orgDescription = "A private home"
 
-  author = "PL"
-  authorAvatar = "img/profile-picture.jpg"
+  author = "Phil Lembo"
+  authorAvatar = "uploads/profile_picture.jpg"
   authorLocation = "Raleigh, NC"
   authorWebsite = "https://plembo.github.io"
   authorDescription = "Enterprise Architect"
