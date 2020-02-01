@@ -6,11 +6,11 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Example Site"
-  subtitle    = "My Great Site"
+  title       = "Phil Lembo"
+  subtitle    = "Just another tech"
 
   cover       = "uploads/header.jpg"
-  description = "Phil's great example site."
+  description = "A site static site."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
