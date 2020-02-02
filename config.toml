@@ -1,4 +1,4 @@
-baseurl         = "https://elegant-neumann-74d908.netlify.com/"
+baseurl         = "https://blog.lembobrothers.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
