@@ -3,7 +3,7 @@ date = "2020"
 title = "Get In Touch"
 +++
 
-<form method="post" name="Contact" netlify-honeypot="bot-field" data-netlify="true" data-netlify-recaptcha="true">
+<form method="post" name="Contact" data-netlify-recaptcha="true" data-netlify="true">
     <p class="hidden">
         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
     </p>
