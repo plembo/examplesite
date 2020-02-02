@@ -56,6 +56,9 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-  name = "Google"
-  url = "https://google.com/"
+  name = "Contact"
+  url = "/contact/"
   weight = 95
+
+[markup.goldmark.renderer]
+unsafe= true
